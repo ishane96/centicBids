@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "412165805129",
+    "project_id": "centicbids-7c51f",
+    "storage_bucket": "centicbids-7c51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412165805129:android:ea73ba7fecf70f6f821b98",
+        "android_client_info": {
+          "package_name": "com.example.centic_bids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412165805129-b1ba9id4l5ds9v7o73mot8kvlt8nqf5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBARBQQbXIhXzE7AuecXyH-0niXnak0Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412165805129-b1ba9id4l5ds9v7o73mot8kvlt8nqf5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412165805129-k6bn0vsqafl5sro9uts5m3g7kjomc5ph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.centicBids"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
